@@ -11,7 +11,14 @@
     <option name="SERVER_URL" value="http://localhost:8586" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="217a04cc-f12b-42d2-8d96-51c118ed3dbc" name="Default Changelist" comment="Done" />
+    <list default="true" id="217a04cc-f12b-42d2-8d96-51c118ed3dbc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Vidly/Controllers/MoviesController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vidly/Models/Movie.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vidly/Views/Movies/Random.aspx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Vidly/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Vidly/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Vidly/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Vidly/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vidly/Vidly.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Vidly/Vidly.csproj" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +40,9 @@
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Vidly/Page.html" />
+      <option value="$PROJECT_DIR$/Vidly/Models/Movie.cs" />
+      <option value="$PROJECT_DIR$/Vidly/Controllers/MoviesController.cs" />
+      <option value="$PROJECT_DIR$/Vidly/Views/Movies/Random.aspx" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1kX2UTe2Xnvx7oBDmn590oe887m" />
@@ -45,6 +55,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -55,7 +67,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.environmentSetup" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -114,7 +126,8 @@
       <workItem from="1605840178937" duration="41000" />
       <workItem from="1605840249193" duration="75000" />
       <workItem from="1605840434141" duration="503000" />
-      <workItem from="1605842112572" duration="422000" />
+      <workItem from="1605842112572" duration="2174000" />
+      <workItem from="1605889912140" duration="19000" />
     </task>
     <task id="LOCAL-00001" summary="Done">
       <created>1605842419507</created>
@@ -123,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605842419507</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Dũng Commit">
+      <created>1605842729684</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605842729684</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,7 +166,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done" />
+    <MESSAGE value="Dũng Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dũng Commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
